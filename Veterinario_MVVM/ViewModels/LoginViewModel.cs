@@ -74,12 +74,10 @@ namespace Veterinario_MVVM.ViewModels
                 var usuario = _authService.ValidarLogin(Username, Password);
                 if (usuario != null)
                 {
-                    // Crear MainView, asignar MainViewModel con el usuario autenticado y mostrar
                     var mainView = new MainView();
                     mainView.DataContext = new MainViewModel(usuario);
                     mainView.Show();
 
-                    // Cerrar la ventana actual (LoginView)
                     Application.Current.Windows.OfType<Window>().FirstOrDefault(w => w is LoginView)?.Close();
                 }
                 else

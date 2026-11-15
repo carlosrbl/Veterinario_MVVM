@@ -36,7 +36,6 @@ namespace Veterinario_MVVM.ViewModels
             }
         }
 
-        // Propiedades observables del formulario lateral
         private int _id;
         public int Id { get => _id; set => SetProperty(ref _id, value); }
 
@@ -69,7 +68,6 @@ namespace Veterinario_MVVM.ViewModels
 
         public int TotalPacientes => Mascotas.Count;
 
-        // Comandos
         public ICommand GuardarCommand { get; }
         public ICommand EliminarCommand { get; }
         public ICommand LimpiarCommand { get; }

@@ -4,7 +4,7 @@
         xmlns:vm="clr-namespace:Veterinario_MVVM.ViewModels"
         xmlns:helpers="clr-namespace:Veterinario_MVVM.Helpers"
         Title="VetCare Studio - Acceso Clínico" 
-        Height="420" Width="520"
+        Height="480" Width="520"
         WindowStartupLocation="CenterScreen" 
         ResizeMode="NoResize"
         Background="#0F172A">
@@ -17,38 +17,34 @@
         <BooleanToVisibilityConverter x:Key="BoolToVisConverter" />
     </Window.Resources>
 
-    <Grid Margin="30">
-        <Border Background="#1E293B" CornerRadius="8" Padding="25">
+    <Grid Margin="20">
+        <Border Background="#1E293B" CornerRadius="8" Padding="20">
             <StackPanel VerticalAlignment="Center">
 
                 <TextBlock Text="🐾 VETCARE STUDIO" 
                            Foreground="#38BDF8" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center"/>
                 <TextBlock Text="Gestión de Pacientes Veterinarios (DAM 2026)" 
-                           Foreground="#94A3B8" FontSize="12" Margin="0,4,0,25" HorizontalAlignment="Center"/>
+                           Foreground="#94A3B8" FontSize="12" Margin="0,4,0,15" HorizontalAlignment="Center"/>
 
-                <!-- Usuario -->
                 <Label Content="_Usuario:" Target="{Binding ElementName=txtUser}" Foreground="White" FontWeight="SemiBold"/>
                 <TextBox x:Name="txtUser" 
                          Text="{Binding Username, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
                          Height="34" VerticalContentAlignment="Center" Padding="8,0" TabIndex="1"
                          Background="#334155" Foreground="White" BorderBrush="#475569"/>
 
-                <!-- Contraseña con PasswordBoxHelper -->
-                <Label Content="_Contraseña:" Target="{Binding ElementName=pwdPassword}" Foreground="White" FontWeight="SemiBold" Margin="0,10,0,0"/>
+                <Label Content="_Contraseña:" Target="{Binding ElementName=pwdPassword}" Foreground="White" FontWeight="SemiBold" Margin="0,8,0,0"/>
                 <PasswordBox x:Name="pwdPassword"
                              helpers:PasswordBoxHelper.BindPassword="True"
                              helpers:PasswordBoxHelper.BoundPassword="{Binding Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                              Height="34" VerticalContentAlignment="Center" Padding="8,0" TabIndex="2"
                              Background="#334155" Foreground="White" BorderBrush="#475569"/>
 
-                <!-- Mensaje de error -->
-                <Border Background="#FEF2F2" BorderBrush="#EF4444" BorderThickness="1" CornerRadius="4" Padding="8" Margin="0,15,0,0"
+                <Border Background="#FEF2F2" BorderBrush="#EF4444" BorderThickness="1" CornerRadius="4" Padding="8" Margin="0,12,0,0"
                         Visibility="{Binding HayError, Converter={StaticResource BoolToVisConverter}}">
                     <TextBlock Text="{Binding MensajeError}" Foreground="#DC2626" FontWeight="SemiBold" HorizontalAlignment="Center"/>
                 </Border>
 
-                <!-- Botonera -->
-                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
                     <Button Content="Limpiar" Command="{Binding LimpiarCommand}" Width="100" Height="36" Margin="0,0,10,0"
                             Background="#475569" Foreground="White" BorderThickness="0" TabIndex="4"/>
                     <Button Content="INICIAR SESIÓN (↵)" Command="{Binding LoginCommand}" Width="150" Height="36"
