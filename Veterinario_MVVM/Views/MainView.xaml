@@ -17,8 +17,8 @@
                 <TextBlock Text="VetCare Studio - Panel Clínico" Foreground="White" FontSize="18" FontWeight="Bold" VerticalAlignment="Center"/>
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
                     <TextBlock Foreground="#94A3B8" VerticalAlignment="Center" Margin="0,0,15,0">
-                        <Run Text="{Binding NombreUsuario}" FontWeight="Bold" Foreground="White"/>
-                        <Run Text=" ("/><Run Text="{Binding RolUsuario}"/><Run Text=")"/>
+                <Run Text="{Binding NombreUsuario, Mode=OneWay}" FontWeight="Bold" Foreground="White"/>
+                <Run Text=" ("/><Run Text="{Binding RolUsuario, Mode=OneWay}"/><Run Text=")"/>
                     </TextBlock>
                     <Button Content="[ Salir ]" Command="{Binding CerrarSesionCommand}" Background="Transparent" Foreground="#F87171" BorderThickness="0" Cursor="Hand" FontWeight="Bold"/>
                 </StackPanel>
@@ -38,7 +38,9 @@
                         <TextBox x:Name="txtNombre" Text="{Binding Nombre, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,8" Padding="4"/>
 
                         <Label Content="Especie:"/>
-                        <ComboBox SelectedValue="{Binding Especie, Mode=TwoWay}" Margin="0,0,0,8" Padding="4">
+                        <ComboBox SelectedValue="{Binding Especie, Mode=TwoWay}" 
+                                  SelectedValuePath="Content" 
+                                  Margin="0,0,0,8" Padding="4">
                             <ComboBoxItem Content="Perro"/>
                             <ComboBoxItem Content="Gato"/>
                             <ComboBoxItem Content="Ave"/>

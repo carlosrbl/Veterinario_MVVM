@@ -69,27 +69,27 @@ namespace Veterinario_MVVM.ViewModels
             HayError = false;
             MensajeError = string.Empty;
 
-            try
+            var usuario = _authService.ValidarLogin(Username, Password);
+            if (usuario != null)
             {
-                var usuario = _authService.ValidarLogin(Username, Password);
-                if (usuario != null)
+                var mainView = new MainView
                 {
-                    var mainView = new MainView();
-                    mainView.DataContext = new MainViewModel(usuario);
-                    mainView.Show();
+                    DataContext = new MainViewModel(usuario)
+                };
 
-                    Application.Current.Windows.OfType<Window>().FirstOrDefault(w => w is LoginView)?.Close();
-                }
-                else
-                {
-                    MensajeError = "Usuario o clave incorrectos.";
-                    HayError = true;
-                }
+                Application.Current.MainWindow = mainView;
+                mainView.Show();
+
+                var loginWindow = Application.Current.Windows.OfType<Window>().FirstOrDefault(w => w is LoginView);
+                loginWindow?.Close();
             }
-            finally
+            else
             {
-                IsBusy = false;
+                MensajeError = "Usuario o clave incorrectos.";
+                HayError = true;
             }
+
+            IsBusy = false;
         }
 
         private void PerformLimpiar()
