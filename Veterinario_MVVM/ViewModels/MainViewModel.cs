@@ -16,6 +16,13 @@ namespace Veterinario_MVVM.ViewModels
         public string NombreUsuario => _usuarioActual.NombreCompleto;
         public string RolUsuario => _usuarioActual.Rol;
 
+        private object? _vistaActual;
+        public object? VistaActual
+        {
+            get => _vistaActual;
+            set => SetProperty(ref _vistaActual, value);
+        }
+
         private ObservableCollection<Mascota> _mascotas = new();
         public ObservableCollection<Mascota> Mascotas
         {
@@ -72,6 +79,8 @@ namespace Veterinario_MVVM.ViewModels
         public ICommand EliminarCommand { get; }
         public ICommand LimpiarCommand { get; }
         public ICommand CerrarSesionCommand { get; }
+        public ICommand MostrarPacientesCommand { get; }
+        public ICommand MostrarAdmisionCommand { get; }
 
         public MainViewModel() : this(new Usuario { NombreCompleto = "Dr. Antonio García", Rol = "Veterinario Colegiado" }) { }
 
@@ -86,6 +95,8 @@ namespace Veterinario_MVVM.ViewModels
             EliminarCommand = new RelayCommand(_ => PerformEliminar(), _ => MascotaSeleccionada != null);
             LimpiarCommand = new RelayCommand(_ => PerformLimpiar());
             CerrarSesionCommand = new RelayCommand(_ => PerformCerrarSesion());
+            MostrarAdmisionCommand = new RelayCommand(_ => VistaActual = new AdmisionViewModel());
+            MostrarPacientesCommand = new RelayCommand(_ => VistaActual = null);
         }
 
         private bool CanExecuteGuardar()

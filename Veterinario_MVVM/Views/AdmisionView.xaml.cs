@@ -15,7 +15,7 @@ namespace Veterinario_MVVM.Views
     /// <summary>
     /// Lógica de interacción para AdmisionView.xaml
     /// </summary>
-    public partial class AdmisionView : Window
+    public partial class AdmisionView : UserControl
     {
         public AdmisionView()
         {

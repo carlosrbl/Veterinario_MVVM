@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\views\\admisionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\views\\admisionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,12 +19,40 @@
       "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\viewmodels\\admisionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\views\\admisionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\views\\admisionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\models\\admisionpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\models\\admisionpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\services\\reiacservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\services\\reiacservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\viewmodels\\base\\validatableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\viewmodels\\base\\validatableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +71,8 @@
       "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\helpers\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\helpers\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\services\\mascotasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|e:\\dam\\1dam\\desarrollo de interfaces\\practicas\\veterinario_mvvm\\veterinario_mvvm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DFA3B80-C19D-95F8-60C1-ADE81B4250F5}|Veterinario_MVVM\\Veterinario_MVVM.csproj|solutionrelative:veterinario_mvvm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -86,11 +98,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AdmisionView.xaml",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\AdmisionView.xaml",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\Views\\AdmisionView.xaml",
@@ -98,40 +110,88 @@
               "RelativeToolTip": "Veterinario_MVVM\\Views\\AdmisionView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-18T21:42:33.623Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AdmisionViewModel.cs",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\AdmisionViewModel.cs",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\ViewModels\\AdmisionViewModel.cs",
               "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\AdmisionViewModel.cs",
               "RelativeToolTip": "Veterinario_MVVM\\ViewModels\\AdmisionViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAqwAcBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T21:40:49.857Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\Views\\MainView.xaml",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\MainView.xaml",
+              "RelativeToolTip": "Veterinario_MVVM\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T20:05:45.556Z",
               "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdmisionPaciente.cs",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Models\\AdmisionPaciente.cs",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\Models\\AdmisionPaciente.cs",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Models\\AdmisionPaciente.cs",
-              "RelativeToolTip": "Veterinario_MVVM\\Models\\AdmisionPaciente.cs",
+              "DocumentIndex": 8,
+              "Title": "ValidatableViewModel.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\Base\\ValidatableViewModel.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\ViewModels\\Base\\ValidatableViewModel.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\Base\\ValidatableViewModel.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\ViewModels\\Base\\ValidatableViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T21:39:14.698Z",
-              "EditorCaption": "",
+              "WhenOpened": "2026-11-19T18:02:18.717Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReiacService.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Services\\ReiacService.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\Services\\ReiacService.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Services\\ReiacService.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\Services\\ReiacService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:10:40.649Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAqwHwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T19:34:54.492Z",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\Views\\LoginView.xaml",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Veterinario_MVVM\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T20:05:04.42Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AuthService.cs",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\Services\\AuthService.cs",
@@ -144,81 +204,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PasswordBoxHelper.cs",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Helpers\\PasswordBoxHelper.cs",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\Helpers\\PasswordBoxHelper.cs",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Helpers\\PasswordBoxHelper.cs",
-              "RelativeToolTip": "Veterinario_MVVM\\Helpers\\PasswordBoxHelper.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwDsAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T19:34:42.355Z",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\App.xaml",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\App.xaml",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\App.xaml",
-              "RelativeToolTip": "Veterinario_MVVM\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-15T20:00:19.613Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "Veterinario_MVVM\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFkAAAANAAAAAAAAAA==",
+              "Title": "AdmisionView.xaml.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\AdmisionView.xaml.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\Views\\AdmisionView.xaml.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\AdmisionView.xaml.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\Views\\AdmisionView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T19:55:35.946Z",
+              "WhenOpened": "2026-11-19T18:13:45.035Z",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\App.xaml.cs",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\App.xaml.cs",
-              "RelativeToolTip": "Veterinario_MVVM\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "AdmisionPaciente.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Models\\AdmisionPaciente.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\Models\\AdmisionPaciente.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Models\\AdmisionPaciente.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\Models\\AdmisionPaciente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T20:34:33.178Z",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainView.xaml.cs",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\MainView.xaml.cs",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\Views\\MainView.xaml.cs",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\MainView.xaml.cs",
-              "RelativeToolTip": "Veterinario_MVVM\\Views\\MainView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T20:12:54.591Z",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "Veterinario_MVVM\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAIA0wE0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T19:34:54.492Z",
-              "EditorCaption": "",
+              "WhenOpened": "2026-11-18T21:39:14.698Z",
               "OwnerCaption": "%2"
             },
             {
@@ -236,19 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\Views\\MainView.xaml",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\MainView.xaml",
-              "RelativeToolTip": "Veterinario_MVVM\\Views\\MainView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-15T20:05:45.556Z",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Mascota.cs",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Models\\Mascota.cs",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\Models\\Mascota.cs",
@@ -261,7 +256,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\App.xaml.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\App.xaml.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T20:34:33.178Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T19:55:35.946Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\App.xaml",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\App.xaml",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\App.xaml",
+              "RelativeToolTip": "Veterinario_MVVM\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T20:00:19.613Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PasswordBoxHelper.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Helpers\\PasswordBoxHelper.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\Helpers\\PasswordBoxHelper.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Helpers\\PasswordBoxHelper.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\Helpers\\PasswordBoxHelper.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T19:34:42.355Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Usuario.cs",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\Models\\Usuario.cs",
@@ -275,6 +322,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "Veterinario_MVVM\\Views\\MainView.xaml.cs",
+              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "Veterinario_MVVM\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T20:12:54.591Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "MascotasService.cs",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Services\\MascotasService.cs",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\Services\\MascotasService.cs",
@@ -287,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\Base\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\ViewModels\\Base\\BaseViewModel.cs",
@@ -300,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\ViewModels\\Base\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\ViewModels\\Base\\RelayCommand.cs",
@@ -313,19 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoginView.xaml",
-              "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\LoginView.xaml",
-              "RelativeDocumentMoniker": "Veterinario_MVVM\\Views\\LoginView.xaml",
-              "ToolTip": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\Views\\LoginView.xaml",
-              "RelativeToolTip": "Veterinario_MVVM\\Views\\LoginView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-15T20:05:04.42Z",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "E:\\DAM\\1DAM\\DESARROLLO DE INTERFACES\\PRACTICAS\\Veterinario_MVVM\\Veterinario_MVVM\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Veterinario_MVVM\\AssemblyInfo.cs",
